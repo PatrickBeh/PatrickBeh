@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PatrickBeh
+- 👀 I’m interested in web developement and game development.
+- 🌱 I’m currently learning JavaScript
+- 📫 You can reach me by pbehenck@gmail.com
