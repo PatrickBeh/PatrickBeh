@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PatrickBeh
 - 👀 I’m interested in web developement and game development.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Jquery and PHP
 - 📫 You can reach me by pbehenck@gmail.com
