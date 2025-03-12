@@ -5,7 +5,7 @@ Full-Stack Developer with 3+ years of experience building dynamic, user-centric 
 
 ## Technical Skills
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
-- **Backend**: PHP, Laravel, Java, SpringBoot
+- **Backend**: PHP, Laravel, Java, SpringBoot, Lombok
 - **Mobile**: Flutter
 - **CMS**: WordPress, Shopify
 - **Tools**: Git, JetEngine, ACF, Postman
