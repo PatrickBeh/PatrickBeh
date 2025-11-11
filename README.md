@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @PatrickBeh (Pat)
+# Hi, I'm @PatrickBeh (Pat)
 
 ## About Me
 Full-Stack Developer with 3+ years of experience building dynamic, user-centric web solutions. I've evolved from working with WordPress, Elementor, and JetEngine at Yakk Digital (2.5 years), through freelancing (6 months), to my current role where I primarily work with Laravel and Flutter while adapting to diverse client needs across multiple technologies and frameworks.
@@ -24,8 +24,8 @@ Working as a Full-Stack Developer at Aastera Technology since January 2025, prim
 - Passion for teaching and mentoring others in web technologies
 
 ## Let's Connect!
-- 📧 Email: pbehenck@gmail.com
-- 🌐 Portfolio: [patrickbehenck.com](https://patrickbehenck.com)
-- 📱 Instagram: [@patrick_behenck](https://instagram.com/patrick_behenck)
+-  Email: pbehenck@gmail.com
+-  Portfolio: [patrickbehenck.com](https://patrickbehenck.com)
+-  Instagram: [@patrick_behenck](https://instagram.com/patrick_behenck)
 
 I'm open to collaboration opportunities and excited to contribute to innovative projects!
